@@ -11,7 +11,8 @@ public class InputPractice {
         System.out.print("연산자(+, -, *, /): ");
         String a = sc.next();
 
-        System.out.println("결과 : "+first +" "+ a +" "+ second);
+        System.out.println("결과 : " + first + " " + a + " " + second);
+
 
         sc.close();
     }
